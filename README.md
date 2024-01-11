@@ -7,8 +7,11 @@ Data: includes feature like
   - mileage -  mileage of the vehicle
   - price - price on the vehicle
   - location - location of manufacture
+
 conclusions:
-  toyota was the most manufactured brand but still honda civic was the most preferred model
+
+
+toyota was the most manufactured brand but still honda civic was the most preferred model
 
 ford was the less manufactured brand , but still had personal wishes towards ford , may be used it less becz of the maintenance cost and parts cost
 
